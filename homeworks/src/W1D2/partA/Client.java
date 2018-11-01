@@ -1,7 +1,6 @@
 package W1D2.partA;
 
-import java.util.*;
-import java.util.stream.Collectors;
+import java.util.List;
 
 public class Client {
 

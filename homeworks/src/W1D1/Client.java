@@ -34,7 +34,7 @@ public class Client {
 
     public static void main(String[] args) {
         Client c = new Client();
-        c.readFile("src/input/test.txt");
+        c.readFile("src/W1D1/input/test.txt");
         System.out.println(Arrays.deepToString(c.fileLines.toArray()));
         System.out.println("Total: " + c.fileLines.size());
         System.out.println("end...");
